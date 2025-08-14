@@ -1,1 +1,0 @@
-# Oleksandr_Pulya2
