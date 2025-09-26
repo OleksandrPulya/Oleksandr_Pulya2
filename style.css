@@ -62,6 +62,11 @@ h1 {
   background-color: #00c1ff;
 }
 
+.steam {
+  background-color: #1b2838;
+  opacity: 1 !important;
+}
+
 footer {
   margin-top: 60px;
   font-size: 0.9em;
